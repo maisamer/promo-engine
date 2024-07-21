@@ -1,5 +1,10 @@
 # promo-engine
-# Retail Store Promo Engine  ## Overview  This project is a retail store promotion engine designed to calculate discounts and generate bills based on different user types. The project uses Java version 17, Spring Boot 3.1.3, and JUnit for testing. 
+# Retail Store Promo Engine 
+
+## Overview  
+
+This project is a retail store promotion engine designed to calculate discounts and generate bills based on different user types. The project uses Java version 17, Spring Boot 3.1.3, and JUnit for testing. 
+
 ## Running the Application
 
 To run the application, follow these steps:
