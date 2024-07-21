@@ -30,5 +30,5 @@ To run the application, follow these steps:
    ```sh
    mvn verify
 
-   Note: The coverage report will be generated in the target/site/jacoco directory by default. Open index.html in your browser to view the report.
+##Note: The coverage report will be generated in the target/site/jacoco directory by default. Open index.html in your browser to view the report.
    
